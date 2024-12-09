@@ -1,0 +1,8 @@
+Analyze Numbers is a program to give you the sum of all even and odd numbers
+from a list of numbers user provides.
+
+Program will give you the percentage of numbers that are even and odd,
+and will list the numbers from the list entered that are even or odd.
+
+Program will also ask if you would like to run the program again.
+Type y to continue, n to close the program.

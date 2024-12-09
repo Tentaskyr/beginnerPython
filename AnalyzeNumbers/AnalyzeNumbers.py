@@ -41,6 +41,9 @@ def AnalyzeNumbers():
     print(f"Even numbers: {evens}")
     print(f"Odd numbers: {odds}")
 
+    grand_total = even_sum + odd_sum
+    print(f"The grand total of numbers provided is: {grand_total}!")
+
 while True:
     AnalyzeNumbers()
     again = input("Do you want to run the program again? (y/n): ").strip().lower()
